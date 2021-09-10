@@ -43,7 +43,7 @@ The majority of the tables and figures use the sets in working_files, although s
 
 17. fixRNAscientific.R contains two formatting function. The primary one fixRNAscientific() converts A+eB scientific notation to A x 10^B if the number is greater than or equal to 1e+03. The second one GMCIparse_fixsci() deals with columns that have GM and confidence intervals so that fixRNAscientific() can be applied to them. These are used with tables 2,3,s1,s2,s7a,s7b.
 
-A data flow diagram is available in Lucidchart at https://lucid.app/lucidchart/bb8e55fd-78d9-48fb-9be4-e19bff5a52cc/edit
+A data flow diagram is in the root-level image file Data Analysis Flowchart for SARS-CoV-2 Shedding Manuscript (final).svg.
 
 Detailed notes on sources:
 ---
