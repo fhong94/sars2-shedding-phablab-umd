@@ -1,6 +1,10 @@
-# sars-shedding-manuscript
+Manuscript: "Infectious Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Exhaled Aerosols and Efficacy of Masks During Early Mild Infection"
+Oluwasanmi O Adenaiye, Jianyu Lai, P Jacob Bueno de Mesquita, Filbert Hong, Somayeh Youssefi, Jennifer German, S-H Sheldon Tai, Barbara Albert, Maria Schanz, Stuart Weston, Jun Hang, Christian Fung, Hye Kyung Chung, Kristen K Coleman, Nicolae Sapoval, Todd Treangen, Irina Maljkovic Berry, Kristin Mullins, Matthew Frieman, Tianzhou Ma, Donald K Milton, University of Maryland StopCOVID Research Group
+Clinical Infectious Diseases, 2021
+ciab797
+https://doi.org/10.1093/cid/ciab797
 
-This repository is being used to store source data and R scripts that will be used to merge and clean files in order to create the tables and plots for the SARS-CoV-2 shedding manuscript.
+This repository is being used to store source data and R scripts that will be used to merge and clean files in order to create the tables and plots for the manuscript.
 
 ## OVERVIEW:
 
